@@ -8,6 +8,11 @@ Source code lives in the `mathmex` repository.
 
 ## Members
 
+### Website
+We host our website's source code in the `website` repository. For those of you who are new to the laboratory, you'll want to add yourself to our `/members` page by editing the code found there.
+
+After you've cloned the repository, look to the `website` README for further instructions.
+
 ### Naming Conventions
 All repositories and branches must follow **kebab-case**.
 
